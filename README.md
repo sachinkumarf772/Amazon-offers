@@ -1,4 +1,4 @@
-# Amazon Offers Web App
+3# Amazon Offers Web App
 
 A lightweight and responsive web app to showcase Amazon affiliate product deals.  
 This project is fully static and made using simple HTML, CSS, and JavaScript.
